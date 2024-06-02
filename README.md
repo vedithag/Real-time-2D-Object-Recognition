@@ -9,11 +9,17 @@ The system also incorporates a training mode, allowing it to learn and categoriz
 
 ## Features
 Image Thresholding: Converts color images to binary images using dynamic thresholding techniques.
+
 Morphological Operations: Enhances binary image segmentation through erosion and dilation.
+
 Region Segmentation: Identifies and labels connected regions within binary images.
+
 Feature Extraction: Calculates features such as Hu moments and bounding rectangles for each region.
+
 Training Mode: Allows the system to learn and categorize objects based on user-provided labels.
+
 Real-time Classification: Uses k-Nearest Neighbors (k-NN) and deep neural networks (DNNs) for real-time object classification.
+
 Performance Evaluation: Assesses the system’s performance using accuracy, precision, recall, and confusion matrices.
 
 ## Tasks
